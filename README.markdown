@@ -32,7 +32,7 @@ In InterfaceBuilder, drop in or select existing instances of `NSSecureTextField`
 
 ## License
 
-Chroma-Hash and CHSecureTextField is licensed under the MIT License:
+Chroma-Hash and CHSecureTextField are licensed under the MIT License:
 
   Copyright (c) 2009 Mattt Thompson (http://mattt.me/)
 
