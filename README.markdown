@@ -22,9 +22,9 @@ First, include `CHSecureField.{h,m}`, `CHColorBar.{h,m}`, and `NSColor+HexRGB.{h
 
 In InterfaceBuilder, drop in or select existing instances of `NSSecureTextField` and press ⌘6 to bring up the Identity Inspector. In the "Class Identity" section, change the value of "Class" to `CHSecureField`.
 
+![CHSecureTextField Inspector](http://mattt.github.com/CHSecureTextField/CHSecureTextField-Inspector.png "CHSecureTextField Inspector")
 
-
-**Note**: InterfaceBuilder won't show the Chroma-Hash behavior when you Simulate Interface. To see `CHSecureField` in all of its glory, Build And Run from the Xcode project.
+**Note**: InterfaceBuilder won't show the Chroma-Hash behavior when you do Simulate Interface. To see `CHSecureField` in all of its glory, Build And Run from the Xcode project.
 
 ## Requirements
 
