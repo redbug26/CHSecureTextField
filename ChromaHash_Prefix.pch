@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ChromaHash' target in the 'ChromaHash' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
