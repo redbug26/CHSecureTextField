@@ -8,8 +8,8 @@
 		<string key="IBDocument.HIToolboxVersion">353.00</string>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="57"/>
 			<integer value="372"/>
+			<integer value="57"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -514,7 +514,7 @@
 							<object class="NSTextFieldCell" key="NSCell" id="905496159">
 								<int key="NSCellFlags">68288064</int>
 								<int key="NSCellFlags2">1212154880</int>
-								<string type="base64-UTF8" key="NSContents">wqkgTWF0dHQgVGhvbXBzb24gLSBSZWxlYXNlZCBVbmRlciBhbiBNSVQgTGljZW5zZQ</string>
+								<string type="base64-UTF8" key="NSContents">wqkgTWF0dHQgVGhvbXBzb24gLSBSZWxlYXNlZCBVbmRlciB0aGUgTUlUIExpY2Vuc2U</string>
 								<object class="NSFont" key="NSSupport">
 									<string key="NSName">LucidaGrande</string>
 									<double key="NSSize">1.000000e+01</double>
@@ -534,7 +534,7 @@
 							<object class="NSTextFieldCell" key="NSCell" id="1036247650">
 								<int key="NSCellFlags">68288064</int>
 								<int key="NSCellFlags2">138413056</int>
-								<string key="NSContents">CHSecureTextInput</string>
+								<string key="NSContents">CHSecureTextField</string>
 								<object class="NSFont" key="NSSupport">
 									<string key="NSName">Monaco</string>
 									<double key="NSSize">1.200000e+01</double>
@@ -916,15 +916,15 @@
 						<reference key="object" ref="439893737"/>
 						<object class="NSMutableArray" key="children">
 							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="986595883"/>
 							<reference ref="1071923893"/>
-							<reference ref="284494359"/>
 							<reference ref="640818459"/>
 							<reference ref="560264665"/>
 							<reference ref="1012732820"/>
 							<reference ref="550569965"/>
 							<reference ref="914145138"/>
 							<reference ref="764299459"/>
+							<reference ref="284494359"/>
+							<reference ref="986595883"/>
 						</object>
 						<reference key="parent" ref="972006081"/>
 					</object>
