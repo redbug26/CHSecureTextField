@@ -57,6 +57,8 @@ NSString * md5(NSString * string)
 
 - (void)textDidChange:(NSNotification *)notification
 {
+	[super textDidChange:notification];
+    
 	NSString * value = (NSString * )[notification.object performSelector:@selector(string)];
 	NSString * salt = (NSString*)CSCopyMachineName();
 	NSString * hash = md5([salt stringByAppendingString:value]);
